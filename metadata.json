@@ -1,0 +1,6 @@
+{
+  "name": "PharmaCare AI",
+  "description": "نظام إدارة الصيدلية الذكي والمساعد الطبي بالذكاء الاصطناعي مع تحليلات وتفاعلات وأقسام POS والمخزون",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
